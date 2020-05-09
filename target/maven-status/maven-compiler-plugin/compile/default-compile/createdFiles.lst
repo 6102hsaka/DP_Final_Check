@@ -1,0 +1,15 @@
+com\designpattern\abstractfactory\ElectronicOrder.class
+com\designpattern\abstractfactory\ToysOrder.class
+com\designpattern\abstractfactory\TeleCommunicationChannel.class
+com\designpattern\abstractfactory\ChannelType.class
+com\designpattern\abstractfactory\ECommerceChannel.class
+com\designpattern\observerpattern\INotificationService.class
+com\designpattern\observerpattern\App.class
+com\designpattern\observerpattern\INotificationObserver.class
+com\designpattern\abstractfactory\Order.class
+com\designpattern\abstractfactory\OrderFactory.class
+com\designpattern\observerpattern\Admin.class
+com\designpattern\abstractfactory\Client.class
+com\designpattern\observerpattern\NotificationService.class
+com\designpattern\abstractfactory\FurnitureOrder.class
+com\designpattern\abstractfactory\ProductType.class
